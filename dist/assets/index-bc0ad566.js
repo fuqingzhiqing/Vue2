@@ -1,0 +1,1 @@
+import{d as o,b as t,z as n,o as r,g as s}from"./index-8d33f3e5.js";const l=o({__name:"index",setup(a){let e=t();return n(()=>{e.getUserInfo()}),(c,u)=>(r(),s("div",null,"home"))}});export{l as default};
